@@ -187,10 +187,3 @@ Calculating BMI from height and weight
 
 Allowing the user to collect information multiple times
 
-👨‍💻 Author
-
-Created as a beginner Python programming project.
-
-📄 License
-
-This project is intended for educational and learning purposes.
